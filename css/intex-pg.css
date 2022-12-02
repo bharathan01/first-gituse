@@ -226,7 +226,7 @@
  .masala{
     width: 300px;
     height: 250px;
-    background-image: url("/images/mazaladhosa.jfif");
+    background-image: url("../images/mazaladhosa.jfif");
     background-repeat:no-repeat ;
     background-size: cover;
     opacity: 1;
@@ -239,7 +239,7 @@
  .biriani{
     width: 300px;
     height: 250px;
-    background-image: url("/images/Chicken\ Biryani.jfif");
+    background-image: url("../images/Chicken\ Biryani.jfif");
     background-repeat:no-repeat ;
     background-size: cover;
     opacity: 1;
